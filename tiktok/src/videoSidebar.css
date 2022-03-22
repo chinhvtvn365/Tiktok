@@ -1,0 +1,15 @@
+.videoSidebar{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+}
+.shareIcons{
+    height: 35px;
+}
+.videoSidebar__button{
+    text-align: center;
+    filter: invert(1);
+}
+.videoSidebar__button > p{
+    margin: 0;
+}
